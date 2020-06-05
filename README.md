@@ -1,4 +1,6 @@
-﻿﻿![Screenshot](https://i.imgur.com/mJ445n6.png)
+Um dos primeiros softwares que criei utilizando a biblioteca Tkinter do Python, aplicado às disciplinas da minha universidade.
+
+![Screenshot](https://i.imgur.com/mJ445n6.png)
 
 # Modelamento matemático de um sistema Massa-Mola-Amortecedor com 1 G.L.
 ### Cálculo para a posição do centro de massa de um sistema mck 
