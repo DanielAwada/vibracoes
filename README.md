@@ -1,14 +1,11 @@
-﻿![Screenshot](https://i.imgur.com/mJ445n6.png)
+﻿﻿![Screenshot](https://i.imgur.com/mJ445n6.png)
 
 # Modelamento matemático de um sistema Massa-Mola-Amortecedor com 1 G.L.
 ### Cálculo para a posição do centro de massa de um sistema mck 
 Sendo conhecida a Frequência Natural (ωn) e o Coeficiente de Amortecimento (ζ), é conveniente criar mais uma variável dependente desses 2 para facilitar os cálulos, essa variável será δ, sendo ela dada por:
-
 ![Sistema de equações 1](https://i.imgur.com/p3u1Ttg.png)
 
-
 O modelamento matemático de um sistema mck irá depender do seu valor de ζ, que pode ser dividido em 3 casos. O sistema de equações para cada caso está mostrado abaixo:
-
 
 ## Amortecimento Subcrítico (ζ<1)
 ![Sistema de equações 2](https://i.imgur.com/SJTDwsN.png)
